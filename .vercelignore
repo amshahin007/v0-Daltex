@@ -1,0 +1,6 @@
+mcp-server/
+.agent/
+node_modules/
+dist/
+.git/
+.env.local
